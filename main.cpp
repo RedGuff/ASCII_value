@@ -8,9 +8,9 @@ int main()
     clog << CdC[2] << endl; // 2. Ok.
     int c = 0;
     c =  CdC[2];// cast.
-    clog << c << endl; // 50.   ??????????
+    clog << c << endl; // 50.   ASCII
 
-if (CdC[2] == 2)
+if (CdC[2] == 2 + 48) // ASCII.
 {
    cout << "=" << endl;
 }
