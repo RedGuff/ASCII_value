@@ -1,11 +1,14 @@
 #include <iostream>
-#include<string>
+#include <string>
 using namespace std;
 
 int main()
-{
-string CdC="01234";
-cout << CdC[2] << endl; // Test.
+{    
+    string CdC = "01234";
+    clog << CdC[2] << endl; // 2. Ok.
+    int c = 0;
+    c =  CdC[2];// cast.
+    clog << c << endl; // 50.   ??????????
 
 if (CdC[2] == 2)
 {
