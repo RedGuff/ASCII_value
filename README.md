@@ -1,3 +1,3 @@
 # BugStrange001
-Strange bug.
-I tested with stoi, astoi...
+Strange bug. 
+Corrected.
