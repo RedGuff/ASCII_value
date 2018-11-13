@@ -1,3 +1,1 @@
-# BugStrange001
-Strange bug. 
-Corrected.
++48.
